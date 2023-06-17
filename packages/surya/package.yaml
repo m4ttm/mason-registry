@@ -1,0 +1,16 @@
+---
+name: surya 
+description: A Solidity Inspector by Consensys
+homepage: https://github.com/ConsenSys/surya
+licenses:
+  - Apache-2.0
+languages:
+  - Solidity
+categories:
+  - Linter
+
+source:
+  id: pkg:npm/surya@0.4.6
+
+bin:
+  surya: npm:surya
