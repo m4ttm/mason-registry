@@ -28,7 +28,7 @@ Now you're all set to discover and use packages from this registry!
 
 ## Contributing
 
-If you would like to contribute to this registry, you are welcome to submit pull requests. Contributions may include adding new packages or updating existing ones. Please ensure that packages added align with the goals and quality standards of this registry.
+If you would like to contribute, you are welcome to submit pull requests. Contributions may include adding new packages or updating existing ones. Please ensure that packages added align with the goals and quality standards of this registry.
 
 For more information on contributing, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
